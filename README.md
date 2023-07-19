@@ -16,7 +16,6 @@ Modification of `spec.json` file without an approved PR is prohibited.
 
 List of approvers:
 
-- Igor Barinov
-- Viktor Baranov
-- Pavel Khahulin
-- Vadim Arasev
+- Maxime Vaullerin
+- Alexandre Cognard
+- Max Teiger
